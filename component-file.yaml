@@ -1,0 +1,14 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: yescomp
+  description: An example of a pipelines azuredevops.
+  # Example for optional annotations
+  annotations:
+    dev.azure.com/project-repo: Backstage.io/Backstage.io
+  #  github.com/project-slug: backstage/backstage
+  #   backstage.io/techdocs-ref: dir:.
+spec:
+  type: something
+  owner: yotam@cohen.co
+  lifecycle: experimental
