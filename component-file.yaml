@@ -9,6 +9,6 @@ metadata:
   #  github.com/project-slug: backstage/backstage
   #   backstage.io/techdocs-ref: dir:.
 spec:
-  type: something
+  type: service
   owner: yotam@cohen.co
   lifecycle: experimental
